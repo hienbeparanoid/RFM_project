@@ -3,11 +3,11 @@
 This is created for IRM.
 In this project, we have 2 Jupyter files, 5 csv files and 1 readme file.
 
-##**Overview**
+## **Overview**
 
 This RFM (Recency, Frequency, Monetary) project involves the analysis of sales data to derive insights into customer behavior and segmentation. The project is organized into two Jupyter files, rfm_project.ipynb and merge_data.ipynb, each serving specific purposes in the data analysis processing. The project utilizes four CSV files: sales.csv, salesorder.csv, date.csv and customer.csv, and a merged CSV file structured_data.csv, each containing critical information for the analysis.
 
-##**File Descriptions**
+## **File Descriptions**
 *rfm_project.ipynb*: This Jupyter notebook is the core of the RFM analysis. It involves the calculation of Recency, Frequency, and Monetary values for each customer based on sales data. The notebook explores customer segmentation and derives actionable insights for targeted marketing strategies.
 
 *merge_data.ipynb*: This Jupyter notebook focuses on merging and structuring the relevant datasets. It addresses data preprocessing tasks, handling missing values, and combining information from multiple CSV files to create a comprehensive dataset for subsequent analysis.
