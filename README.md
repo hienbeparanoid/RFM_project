@@ -12,13 +12,13 @@ This RFM (Recency, Frequency, Monetary) project involves the analysis of sales d
 
 *merge_data.ipynb*: This Jupyter notebook focuses on merging and structuring the relevant datasets. It addresses data preprocessing tasks, handling missing values, and combining information from multiple CSV files to create a comprehensive dataset for subsequent analysis.
 
-*sales_data.csv*: Contains detailed information about sales transactions, including order IDs, product details, quantities, and prices.
+*sales.csv*: Contains detailed information about sales transactions, including customer key, order IDs, order date, ship date, product details, quantities,prices and other relevant details.
 
-*salesorder_data.csv*: Provides information about sales orders, including order dates, customer IDs, and order statuses.
+*salesorder.csv*: Provides information about sales orders, including channels and Sales Order Line Key.
 
-*date_data.csv*: Includes details about dates relevant to the sales transactions, facilitating the calculation of recency metrics in the analysis.
+*date.csv*: Includes details about dates relevant to the sales transactions, facilitating the calculation of recency metrics in the analysis.
 
-*customer_data.csv*: Contains customer-specific information, including customer IDs, names, contact details, and other relevant details.
+*customer.csv*: Contains customer-specific information, including customer IDs, names, contact details, and other relevant details.
 
 *structured_data.csv*: The structured dataset resulting from the merging process, incorporating data from various sources and prepared for the RFM analysis.
 
@@ -41,3 +41,9 @@ Contributors,
 hiendtm22406c@st.uel.edu.vn
 [Duc Thinh]
 thinhnd22416c@st.uel.edu.vn
+[Phuong Thao]
+thaondp22406c@st.uel.edu.vn
+[Thanh Van]
+vannt22406c@st.uel.edu.vn
+[Bao Ngoc]
+ngocdqb22406c@st.uel.edu.vn
